@@ -1,0 +1,14 @@
+.sign {
+    margin-left: 60px;
+    font-size: 3em;
+    font-family: Dubai light;
+}
+
+.policy {
+    display: flex ;
+    font-size: 0.8em;
+    margin-left: 60px;
+    position: relative;
+    top: 68%
+    
+}
