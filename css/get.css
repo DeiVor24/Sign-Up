@@ -1,4 +1,18 @@
-.user : . sign.n {
+.user,
+.email,
+.password,
+.repassword {
     text-transform: uppercase;
-
+    
+    
 }
+
+.user,
+.email,
+.password,
+.repassword,
+.text,
+.text2,
+.text3,
+.text4{
+    

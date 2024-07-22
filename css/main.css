@@ -13,6 +13,28 @@
     position: absolute;
     top:15%;
     bottom: 15%;
-    right:25%; 
+    right:25%;
     
 }
+
+.started {
+    position: relative;
+    top: 15%;
+    left: 15%;
+}
+
+.getst{
+    display: inline-block;
+    margin-top: 40px;
+    background-color: blue;
+    color: white;
+    font-size: 0.8em;
+    padding: 7px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 15px;
+
+    
+}
+
+    
