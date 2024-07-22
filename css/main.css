@@ -1,10 +1,13 @@
 .signup {
     display:inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 20%;
     position: absolute;
     top: 20%;
     bottom: 20%;
     left: 25%;
+
 }
 
 .get {
